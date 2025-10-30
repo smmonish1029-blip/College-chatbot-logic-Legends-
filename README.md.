@@ -1,0 +1,11 @@
+README.md.
+
+# College Chatbot 🤖
+A simple web-based chatbot that answers FAQs about our college.
+
+## Files
+- `index.html` — main page  
+- `style.css` — chatbot styling  
+- `script.js` — chatbot logic  
+
+Built entirely on mobile using HTML, CSS, and JavaScript.
